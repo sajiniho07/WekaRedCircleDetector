@@ -88,6 +88,3 @@ WekaRedCircleDetector is a Java-based project that combines OpenCV and Weka to d
 - Add support for other Weka classifiers (e.g., SMO, RandomForest).
 - Improve feature extraction with additional attributes (e.g., texture, edge strength).
 - Implement a web interface for easier image uploads and visualization.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
